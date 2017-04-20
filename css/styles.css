@@ -1,0 +1,169 @@
+
+body{
+  background-image: url(http://bentinos.com/jamestown/wp-content/uploads/Bentinos-Pizza-Background-Texture.jpg);
+  border-style: double;
+  border-width: 5px;
+}
+
+
+
+#name{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 100px;
+  background: -webkit-linear-gradient(red,green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  }
+
+
+  #tagLine{
+    text-align: center;
+    font-family: 'League Script', cursive;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 0px;
+    margin-top: 0px;
+  }
+
+  
+
+  img{
+    display: block;
+    margin: auto;
+    height: 450px;
+    padding: 50px;
+  }
+
+  #topMenu{
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+    list-style-type: none;
+    padding: 50px;
+
+
+
+  }
+
+#today{
+  text-align: center;
+  padding:100px;
+}
+
+.sectionTitle{
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+  font-size: 60px;
+  padding: 5px;
+  text-decoration: underline;
+  
+}
+
+#special{
+  font-family: 'League Script', cursive;
+  font-weight: 800;
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+
+
+#menu{
+  text-align: center;
+  padding:20px;
+
+}
+
+.pizzaName{
+  font-family: 'League Script', cursive;
+  font-weight: 900;
+  font-size: 35px;
+  padding:25px;
+  padding-top: 25px;
+}
+
+.description{
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  margin-top: 5px;
+  padding-top: 5px;
+  
+}
+
+.price{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.content{
+  text-align: center;
+
+}
+
+#deal{
+  font-family: 'League Script', cursive;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+
+#addy{
+  list-style-type: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  padding-top: 0px;
+  margin-top: 0px;
+
+}
+
+
+#visit{
+  padding-bottom: 0px;
+}
+
+
+
+footer{
+  font-family: 'Pacifico', cursive;
+  font-size: 13px;
+  padding-top: 50px;
+}
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+a:link{
+  text-decoration: none;
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: white;
+  background-color: black;
+  background: -webkit-linear-gradient(red,green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
